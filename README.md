@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <b>Estudiante de Ingeniería en Informática · INACAP · 5° semestre en proceso</b><br>
+  <b>Estudiante de Ingeniería en Informática · INACAP · Tercer año en proceso</b><br>
   <i>Crecimiento · Tecnología · Cloud · Datos · Web</i>
 </p>
 
