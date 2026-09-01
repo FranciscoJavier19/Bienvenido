@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  👽 ¡Hola! Soy <b>Francisco Montecinos</b>
+ ¡Hola! Soy <b>Francisco Montecinos</b>
 </h1>
 
 <p align="center">
@@ -35,7 +35,7 @@
 
 ---
 
-## 🚀 Sobre mí
+##  Sobre mí
 
 Soy un estudiante apasionado por la tecnología y el aprendizaje constante. Actualmente curso mi 5° semestre de Ingeniería en Informática en **INACAP**. Me motiva automatizar procesos, analizar datos, explorar la nube y crecer en el desarrollo web.
 
@@ -43,15 +43,16 @@ Soy un estudiante apasionado por la tecnología y el aprendizaje constante. Actu
 
 ## 🛠️ Habilidades técnicas
 
-- 🟨 **PowerBI:** Dashboards, modelado y visualización de datos
-- 🟩 **Excel & Power Query:** Automatización, análisis y reportes
-- 🐍 **Python:** Scripts y análisis de información
-- 🌐 **HTML, CSS, JS, Bootstrap 5:** Desarrollo web responsive y profesional (aprendizaje constante)
-- ☁️ **AWS:** Manejo y exploración básica de servicios cloud
-- 🍃 **MongoDB:** Uso básico de bases de datos NoSQL
-- 🧑‍💻 **Git & GitHub:** Control de versiones, flujo colaborativo y comandos de terminal
-- 🐧 **Linux:** Comandos básicos y configuración
-- 🗂️ **VS Code:** Entorno principal de desarrollo
+-  **PowerBI:** Dashboards, modelado y visualización de datos
+-  **Excel & Power Query:** Automatización, análisis y reportes
+-  **Python:** Scripts y análisis de información
+-  **HTML, CSS, JS, Bootstrap 5:** Desarrollo web responsive y profesional (aprendizaje constante)
+-  **AWS:** Manejo y exploración básica de servicios cloud
+-  **MongoDB:** Uso básico de bases de datos NoSQL
+-  **PostgreSQL:** Uso intermedio de base de datos relacional
+-  **Git & GitHub:** Control de versiones, flujo colaborativo y comandos de terminal
+-  **Linux:** Comandos básicos y configuración
+-  **VS Code:** Entorno principal de desarrollo
 
 ---
 
@@ -116,7 +117,7 @@ _Revísalos con enlaces o imágenes dentro del portafolio web._
 
 ---
 
-## 📬 Contacto
+## Contacto
 
 ¿Quieres contactarme para saber más sobre mi trabajo o futuros proyectos?
 
@@ -132,5 +133,5 @@ _Revísalos con enlaces o imágenes dentro del portafolio web._
 ---
 
 <p align="center">
-  <i>🌟 Repositorio y sitio web creados como portafolio académico profesional · INACAP • 2026 🌟</i>
+  <i> Repositorio y sitio web creados como portafolio académico profesional · INACAP • 2026 </i>
 </p>
